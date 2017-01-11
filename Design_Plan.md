@@ -13,5 +13,5 @@ Story class: Story is written down in seperate classes that can be accessed by t
 
 Interaction with Firebase: How do I want to save the story progress in firebase? I can label the choices with numbers and save these numbers seperated by commas under a username, that way it's clear from the length of the string of numbers how many choices the user has made and the numbers that the string is made up of will symbolize the choices made.
 
-##Code
-
+##Database
+![alt text](https://github.com/tartiflette1990/Programmeerproject/blob/master/StoryAppDatabase.png)

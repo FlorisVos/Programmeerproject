@@ -5,3 +5,4 @@
 13-01: tried to implement firebase but not sure if I want to use firebase for this app
 16-01: Im using sharedprefences now for saving the users progress, users can select their file and their progress is saved under a key-value pair, users create their key and the saved progress is the value.
 17-01: Sharedpreferences keys now show up in a listview for the user to select his/her name from.
+18-01: SharedPrefs hold filename + value, value corresponds to progress in story. Story_activity no longer works with scrollview and multiple textviews but with a scrollable textview. Work on buttons: they are mutually exclusive and clickable only once. Still needs work: they have to become clickable again when the next choice has to be made, and they have to have a different text and effect on the story.
